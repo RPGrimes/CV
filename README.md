@@ -1,8 +1,8 @@
 ## Ryan Grimes
 
-I am an ambitious and driven aspiring full-stack developer with a background in engineering and geology. I am looking to join a team in a positive and supportive environment where principles such as TDD and pair programming are followed.
+I am an ambitious and driven aspiring full-stack developer with a background in engineering and geology. I am looking to join a team in a positive and supportive environment where principles such as TDD are followed.
 
-My interest in coding began during various lockdowns in 2020 where I completed online JavaScript and Ruby tutorials and **loved** them! I particularly enjoy that coding incorporates a blend of creative thinking with logical reasoning and problem solving. The more I learnt about coding, the more I wanted to learn and it became abundantly apparent to me that I needed to pursuit a career in the discipline.
+My interest in coding began in 2020 where I completed online JavaScript and Ruby tutorials and **loved** them! I particularly enjoy that coding incorporates a blend of creative thinking with logical reasoning and problem solving. The more I learnt about coding, the more I wanted to learn and it became abundantly apparent to me that I needed to pursuit a career in the discipline.
 
 After five years of working as an engineering geologist in the construction industry I decided wanted a new and more fulfilling challenge as a developer. Therefore, I am currently enrolled at [Makers](https://makers.tech/), a highly selective intensive coding program.
 
@@ -16,11 +16,11 @@ After five years of working as an engineering geologist in the construction indu
 
 ## Skills
 
-**Frameworks** - Ruby, JavaScript, HTML, CSS;
+**Languages** - Ruby, JavaScript, HTML, CSS, as well as proficiency in the command line
 
-**Excellent communication, time management and teamworking** - During my time at as an engineering geologist I routinely managed a number of projects spanning multiple disciplines simultaneously. In order for this to be manageable and for all projects to meet their requirements, deadlines and budgets the teams had to regularly liaise with one another to provide updates on how work was progressing, any issues they may have encountered and how they were planning to proceed in a clear and concise manner.
+**Excellent communication time management and teamworking** - During my time at as an engineering geologist I routinely managed a number of projects spanning multiple disciplines simultaneously. In order for this to be manageable and for all projects to meet their requirements, deadlines and budgets the teams had to regularly liaise with one another to provide updates on how work was progressing, any issues they may have encountered and how they were planning to proceed in a clear and concise manner. Having these skills has helped to articulate a concept when I am explaining it to others and aided me with pair programming/group work.
 
-**Detail focussed** - Regularly peer reviewing colleagues reports and calculations was always quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to my written code in order to make it easily readable and succinct.
+**Detail focussed** - Regularly peer reviewing colleagues reports and calculations was always quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to 'quality check' my code using TDD and helps me write code that is easily readable and succinct.
 
 ## Work Experience
 
