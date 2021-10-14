@@ -16,7 +16,7 @@ After five years of working as an engineering geologist in the construction indu
 
 ## Skills
 
-**Languages** - Ruby, JavaScript, HTML, CSS, as well as proficiency in the command line
+**Languages** - Ruby, JavaScript, HTML, CSS, as well as proficiency in using the command line
 
 **Excellent communication time management and teamworking** - During my time at as an engineering geologist I routinely managed a number of projects spanning multiple disciplines simultaneously. In order for this to be manageable and for all projects to meet their requirements, deadlines and budgets the teams had to regularly liaise with one another to provide updates on how work was progressing, any issues they may have encountered and how they were planning to proceed in a clear and concise manner. Having these skills has helped to articulate a concept when I am explaining it to others and aided me with pair programming/group work.
 
