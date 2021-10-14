@@ -66,7 +66,7 @@ After five years of working as an engineering geologist in the construction indu
 
 ## Hobbies
 
-- **Cricket**: I am a keen crickter who's ability unfortunately does not match my level of enthusiasm
+- **Cricket**: I am a keen cricketer who's ability unfortunately does not match my level of enthusiasm
 - **Football**: Much like with cricket, enthusiasm > ability, but that doesn't stop me playing 5-a-side, 6-a-side or 11-a-side whenever I can!
 - **Food**: I prefer eating it over cooking it, I'm on a mission to try as many different national cuisines as possible
 - **Travel**: Visiting new places, experiencing new cultures (and cuisines as mentioned above!) and meeting new people are all aspects of travel that appeal
