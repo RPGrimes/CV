@@ -72,4 +72,4 @@ After five years of working as an engineering geologist in the construction indu
 - **Football**: Much like with cricket, enthusiasm > ability, but that doesn't stop me playing 5-a-side, 6-a-side or 11-a-side whenever I can!
 - **Food**: I prefer eating it over cooking it, I'm on a mission to try as many different national cuisines as possible
 - **Travel**: Visiting new places, experiencing new cultures (and cuisines as mentioned above!) and meeting new people are all aspects of travel that appeal
-- **Gaming**: Not quite as avid as I was during my teenage year, but I still thoroughly enjoy spending some of my free time on my computer or PlayStation
+- **Gaming**: Not quite as avid as I was during my teenage years, but I still thoroughly enjoy spending some of my free time on my computer or PlayStation
