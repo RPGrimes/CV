@@ -64,6 +64,8 @@ After five years of working as an engineering geologist in the construction indu
 - The College of Richard Collyer - A Levels: Geology, Maths, I.T., AS Levels: Physics, World Development
 - Tanbridge House School - GCSEs: 12 A* or A Grades
 
+- Please feel free to contact me via my [GitHub](https://github.com/RPGrimes) profile or [LinkedIn](https://www.linkedin.com/in/ryanpgrimes/) account! :)
+
 ## Hobbies
 
 - **Cricket**: I am a keen cricketer who's ability unfortunately does not match my level of enthusiasm
