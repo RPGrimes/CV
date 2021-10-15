@@ -26,7 +26,7 @@ After five years of working as an engineering geologist in the construction indu
 
 ### Card Geotechnics Limited (September 2016 to August 2021)  
 #### Senior Engineer (June 2019 to August 2021)
-#### Engineer (September 2016 to August 2021)
+#### Engineer (September 2016 to June 2019)
 
 - Management and supervision of geotechnical and geoenvironmental ground investigation teams throughout London and southern England
 - Client liason for a number of major clients and responsible for company relationship building with a further range of clients including local authorities, architects, civil engineers and developers
