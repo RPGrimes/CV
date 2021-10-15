@@ -1,6 +1,6 @@
 ## Ryan Grimes
 
-I am an ambitious and driven aspiring full-stack developer with a background in engineering and geology. I am looking to join a team in a positive and supportive environment where principles such as TDD are followed.
+I am a determined and driven aspiring full-stack developer with a background in engineering and geology. I am looking to join a team in a positive and supportive environment where principles such as TDD are followed.
 
 My interest in coding began in 2020 where I completed online JavaScript and Ruby tutorials and **loved** them! I particularly enjoy that coding incorporates a blend of creative thinking with logical reasoning and problem solving. The more I learnt about coding, the more I wanted to learn and it became abundantly apparent to me that I needed to pursuit a career in the discipline.
 
