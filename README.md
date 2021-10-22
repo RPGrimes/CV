@@ -12,7 +12,7 @@ After five years of working as an engineering geologist in the construction indu
 | ---------------------------- | ----------------- | ----------------- |
 | [**Command Line Mystery**](https://github.com/RPGrimes/clmystery)     | A murder mystery to be solved using only the command line | Command line, git |
 | [**Pairing FizzBuzz**](https://github.com/RPGrimes/FizzBuzz-Pairing) | First experience of pair programming and writing RSpec tests to check FizzBuzz code is viable | Ruby, RSpec, git  |
-| [**Boris Bikes**](https://github.com/RPGrimes/Boris_Bikes) | Pair-programming challenge where the task was to build a program that emulates the Boris Bike system in London (inc. docking stations, bikes etc.) |
+| [**Boris Bikes**](https://github.com/RPGrimes/Boris_Bikes) | Pair-programming challenge where the task was to build a program that emulates the Boris Bike system in London (inc. docking stations, bikes etc.) | Ruby, RSpec, git |
 
 
 ## Skills
