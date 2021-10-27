@@ -10,9 +10,9 @@ After five years of working as an engineering geologist in the construction indu
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Command Line Mystery**](https://github.com/RPGrimes/clmystery)     | A murder mystery to be solved using only the command line | Command line, git |
-| [**Pairing FizzBuzz**](https://github.com/RPGrimes/FizzBuzz-Pairing) | First experience of pair programming and writing RSpec tests to check FizzBuzz code is viable | Ruby, RSpec, git  |
+| [**Oystercard Challenge**](https://github.com/RPGrimes/Oystercard) | Pair-programming challenge where the task was to build on the basics built previously in the Boris Bike challenge by building a more complex Oystercard system | Ruby, RSpec, git |
 | [**Boris Bikes**](https://github.com/RPGrimes/Boris_Bikes) | Pair-programming challenge where the task was to build a program that emulates the Boris Bike system in London (inc. docking stations, bikes etc.) | Ruby, RSpec, git |
+| [**Pairing FizzBuzz**](https://github.com/RPGrimes/FizzBuzz-Pairing) | First experience of pair programming and writing RSpec tests to check FizzBuzz code is viable | Ruby, RSpec, git  |
 
 
 ## Skills
@@ -21,7 +21,7 @@ After five years of working as an engineering geologist in the construction indu
 
 **Excellent communication time management and teamworking** - During my time at as an engineering geologist I routinely managed a number of projects spanning multiple disciplines simultaneously. In order for this to be manageable and for all projects to meet their requirements, deadlines and budgets the teams had to regularly liaise with one another to provide updates on how work was progressing, any issues they may have encountered and how they were planning to proceed in a clear and concise manner. Having these skills has helped me to articulate a concept when I am explaining it to others and aided me with pair programming/group work.
 
-**Detail focussed** - Regularly peer reviewing colleagues reports and calculations was always quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to 'quality check' my code using TDD and helps me write code that is easily readable and succinct.
+**Detail focused** - Regularly peer reviewing colleagues reports and calculations was always quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to 'quality check' my code using TDD and helps me write code that is easily readable and succinct.
 
 ## Work Experience
 
