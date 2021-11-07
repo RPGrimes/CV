@@ -39,7 +39,7 @@ After five years of working as an engineering geologist in the construction indu
 ## Education
 
 ### Makers Academy (October 2021 to January 2021)
-- Highly selective 12-week software engineering bootcamp using Ruby, JavaScript, Rails, RSpec and Jasmine
+- Highly selective 12-week software engineering bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jasmine
 - Emphasis on Test Driven Development, pair programming and agile methodologies
 - Full stack web development
 - XP values
