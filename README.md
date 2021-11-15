@@ -12,7 +12,7 @@ After five years of working as an engineering geologist in the construction indu
 | ---------------------------- | ----------------- | ----------------- |
 | [**Rock, Paper, Scissors game**](https://github.com/RPGrimes/rps-challenge) | Independent weekend challenge where I built an in-browser Rock, Paper, Scissors game | Ruby, RSpec, Sinatra, Capybara, git  |
 | [**Oystercard Challenge**](https://github.com/RPGrimes/Oystercard) | Pair-programming challenge where the task was to build on the basics built previously in the Boris Bike challenge by building a more complex Oystercard system | Ruby, RSpec, git |
-| [**Chitter**](https://github.com/RPGrimes/chitter-challenge) | Independent weekend challenge where I built a Twitter clone that allows users to post to a public stream | Ruby, RSpec, Sinatra, Capybara, CSS, HTML, git  |
+| [**Chitter**](https://github.com/RPGrimes/chitter-challenge) | Independent weekend challenge, this is the first fullstack application I have made, where I built a Twitter clone that allows users to post to a public stream | Ruby, RSpec, Sinatra, Capybara, PostgreSQL, CSS, HTML, git  |
 
 
 ## Skills
