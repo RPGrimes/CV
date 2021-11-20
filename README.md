@@ -17,7 +17,7 @@ After five years of working as an engineering geologist in the construction indu
 
 ## Skills
 
-**Languages** - Ruby (Sinatra, Capybara, RSpec), JavaScript, HTML, CSS, as well as proficiency in using the command line
+**Languages** - Ruby (Sinatra, Capybara, RSpec), JavaScript, PostgreSQL, HTML, CSS, as well as proficiency in using the command line
 
 **Excellent communication time management and teamworking** - During my time at as an engineering geologist I routinely managed a number of projects spanning multiple disciplines simultaneously. In order for this to be manageable and for all projects to meet their requirements, deadlines and budgets the teams had to regularly liaise with one another to provide updates on how work was progressing, any issues they may have encountered and how they were planning to proceed in a clear and concise manner. Having these skills has helped me to articulate a concept when I am explaining it to others and aided me with pair programming/group work.
 
@@ -29,6 +29,7 @@ After five years of working as an engineering geologist in the construction indu
 #### Senior Engineer (June 2019 to August 2021)
 #### Engineer (September 2016 to June 2019)
 
+- Working at a geotechnical and geoenvironmental consultancy
 - Management and supervision of geotechnical and geoenvironmental ground investigation teams throughout London and southern England
 - Client liason for a number of major clients and responsible for company relationship building with a further range of clients including local authorities, architects, civil engineers and developers
 - Formal mentor for both graduate and junior engineers
