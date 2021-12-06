@@ -10,9 +10,9 @@ After five years of working as an engineering geologist in the construction indu
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Thermostat**](https://github.com/RPGrimes/Thermostat) | Pair-programming challenge where the task was to build a thermometer that can be set/changed via the command line. It also utilises a weather API to call the temperature from an entered city | JavaScript, Jest, APIs, HTML, git  |
+| [**News Summary Challenge**](https://github.com/RPGrimes/news-summary-challenge) | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
 | [**Makers BnB**](https://github.com/RPGrimes/Makers_BnB) | Team engineering challenge where the goal was to build an AirBnB clone | Ruby, RSpec, Sinatra, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git  |
-| [**Chitter**](https://github.com/RPGrimes/chitter-challenge) | Independent weekend challenge, this is the first fullstack application I have made, where I built a Twitter clone that allows users to post to a public stream | Ruby, RSpec, Sinatra, Capybara, PostgreSQL, CSS, HTML, git  |
-| [**Oystercard Challenge**](https://github.com/RPGrimes/Oystercard) | Pair-programming challenge where the task was to build on the basics built previously in the Boris Bike challenge by building a more complex Oystercard system | Ruby, RSpec, git |
 
 
 ## Skills
@@ -40,7 +40,7 @@ After five years of working as an engineering geologist in the construction indu
 ## Education
 
 ### Makers Academy (October 2021 to January 2021)
-- Highly selective 12-week software engineering bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jasmine
+- Highly selective 12-week software engineering bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jest
 - Emphasis on Test Driven Development, pair programming and agile methodologies
 - Full stack web development
 - XP values
