@@ -19,6 +19,8 @@ After five years of working as an engineering geologist in the construction indu
 
 **Languages** - Ruby (Sinatra, Capybara, RSpec), JavaScript (Jest), PostgreSQL, HTML, CSS, as well as proficiency in using the command line
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPGrimes&layout=compact&theme=panda)](https://github.com/RPGrimes/github-readme-stats)
+
 **Excellent communication time management and teamworking** - During my time at as an engineering geologist I routinely managed a number of projects spanning multiple disciplines simultaneously. In order for this to be manageable and for all projects to meet their requirements, deadlines and budgets the teams had to regularly liaise with one another to provide updates on how work was progressing, any issues they may have encountered and how they were planning to proceed in a clear and concise manner. Having these skills has helped me to articulate a concept when I am explaining it to others and aided me with pair programming/group work.
 
 **Detail focused** - Regularly peer reviewing colleagues reports and calculations was always quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to 'quality check' my code using TDD and helps me write code that is easily readable and succinct.
@@ -66,7 +68,7 @@ After five years of working as an engineering geologist in the construction indu
 - The College of Richard Collyer - A Levels: Geology, Maths, I.T., AS Levels: Physics, World Development
 - Tanbridge House School - GCSEs: 12 A* or A Grades
 
-- Please feel free to contact me via my [GitHub](https://github.com/RPGrimes) profile or [LinkedIn](https://www.linkedin.com/in/ryanpgrimes/) account! :)
+- Please feel free to contact me via my [GitHub](https://github.com/RPGrimes) profile or [LinkedIn](https://www.linkedin.com/in/ryanpgrimes/) account!
 
 ## Hobbies
 
